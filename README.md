@@ -11,4 +11,10 @@
 
 2. [x] Pętle:
 
+* [x] [0.c](petle/0.c)
+* [x] [1.c](petle/1.c)
+* [x] [2.c](petle/2.c)
+* [x] [3.c](petle/3.c)
+* [x] [4.c](petle/4.c)
+
 3. [x] Funkcje:
