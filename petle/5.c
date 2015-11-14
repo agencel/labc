@@ -1,14 +1,22 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-#define N 5
+#define rozmiar 6
 
 int main()
 {
-  int tab[N];
+  int tab[rozmiar];
   int i;
-  for(i=0;i<N;i++){
-    printf("\n>");
-    fgets(tab,5,stdin);
-    tab[i]=atoi(tab);
+  for(i=0;i<rozmiar;i++){
+    scanf("%d",&tab[i]);
   }
+  printf("tablica od poczatku: \n");
+  for(i=0;i<rozmiar;i++){
+    printf("%d\n",tab[i]);
+  }
+  printf("tablica od konca: \n");
+  for(i=rozmiar-1;i>=0;i--){
+    printf("%d\n",tab[i]);
+  }
+  return 0;
 }
