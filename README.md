@@ -16,5 +16,11 @@
 * [x] [2.c](petle/2.c)
 * [x] [3.c](petle/3.c)
 * [x] [4.c](petle/4.c)
+* [x] [5.c](petle/5.c)
+* [x] [6.c](petle/6.c)
+* [x] [7.c](petle/7.c)
+* [x] [8.c](petle/8.c)
+* [x] [9.c](petle/9.c)
+* [x] [10.c](petle/10.c)
 
 3. [x] Funkcje:

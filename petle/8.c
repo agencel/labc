@@ -17,7 +17,7 @@ int main()
     for(s=dlugosc-i;s>0;s--){
       putchar('*');
     }
-    for(k=dlugosc-i;k<2*dlugosc;k++){
+    for(k=dlugosc-i;k<2*dlugosc;k--){
       putchar(' ');
     }
     for(s=0;s<4;s++){
