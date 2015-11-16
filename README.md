@@ -19,7 +19,7 @@
 * [x] [5.c](petle/5.c)
 * [x] [6.c](petle/6.c)
 * [x] [7.c](petle/7.c)
-* [x] [8.c](petle/8.c)
+* [x] [8.c NIEKOMPLETNE](petle/8.c)
 * [x] [9.c](petle/9.c)
 * [x] [10.c](petle/10.c)
 
