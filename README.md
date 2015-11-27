@@ -24,3 +24,18 @@
 * [x] [10.c](petle/10.c)
 
 3. [x] Funkcje:
+* [x] [1.c](funkcje/1.c)
+* [x] [2.c](funkcje/2.c)
+* [x] [3.c](funkcje/3.c)
+* [x] [4.c](funkcje/4.c)
+* [x] [5.c NIEKOMPLETNE](funkcje/5.c)
+* [x] [6.c NIEKOMPLETNE](funkcje/6.c)
+* [x] [7.c](funkcje/7.c)
+* [x] [8.c](funkcje/8.c)
+
+
+4. [x] Elementarz 2:
+* [x] [1.c](elementarz/1.c)
+* [x] [2.c](elementarz/2.c)
+* [x] [3.c](elementarz/3.c)
+* [x] [4.c](elementarz/4.c)
