@@ -39,3 +39,13 @@
 * [x] [2.c](elementarz/2.c)
 * [x] [3.c](elementarz/3.c)
 * [x] [4.c](elementarz/4.c)
+* 
+5. [x] Rekurencja:
+* [x] [1.c](rekurencja/1.c)
+* [x] [2.c](rekurencja/2.c)
+* [x] [3.c](rekurencja/3.c)
+* [x] [4.c](rekurencja/4.c)
+* [x] [5.c](rekurencja/5.c)
+6. [x] Struktury:
+* [x] [1.c](struktury/1.c)
+* [x] [2.c](struktury/2.c)
