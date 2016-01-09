@@ -12,8 +12,8 @@ int main(void) {
 	char BUFOR[100];
 	scanf("%s",&BUFOR);
 	wypisz(BUFOR, 0);
+	printf("\n");
 	
 	return 0;
-	getch();
 }
 
