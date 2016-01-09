@@ -14,3 +14,9 @@ int ptinrect(struct point p, struct rect r) {
 int rectinrect(struct rect r1, struct rect r) {
   return ptinrect(r1.ll, r) && ptinrect(r1.ur, r);
 }
+int disjointrect(struct rect r1,struct rect r2){
+  if(rectinrect(r1, r2) == 0)
+    return 1;
+  else
+    return 0;
+}
